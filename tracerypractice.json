@@ -1,0 +1,85 @@
+{
+	"name": [
+		"Rain",
+		"Jess",
+		"Jaime",
+		"Alex",
+		"Joey",
+		"Charlie"
+	],
+	"occupation": [
+		"singer",
+		"model",
+		"senator",
+		"dentist",
+		"barista",
+		"salesperson"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #adjective# #thing#. #dont.capitalize# not to #shout# with #excitement# when you #catch# the #number# word!"
+	],
+	"always": [
+		"never",
+		"rarely",
+		"often",
+		"seldom",
+		"hardly",
+		"sometimes"
+	],
+	"expecting": [
+		"anticipating",
+		"imagining",
+		"wishing",
+		"thinking",
+		"assuming",
+		"hoping"
+	],
+	"adjective": [
+		"awful",
+		"shocking",
+		"enormous",
+		"awesome",
+		"great",
+		"surprising"
+	],
+	"dont": [
+		"try",
+		"dare",
+		"avoid"
+	],
+	"shout": [
+		"scream",
+		"jump",
+		"gasp",
+		"laugh",
+		"snort",
+		"cry"
+	],
+	"thing": [
+		"gadget",
+		"combination",
+		"food",
+		"invention",
+		"concoction"
+	],
+	"excitement": [
+		"fear",
+		"tears",
+		"anger",
+		"joy"
+	],
+	"catch": [
+		"read",
+		"see",
+		"hear",
+		"look at"
+	],
+	"number": [
+		"tenth",
+		"fourth",
+		"eighth",
+		"sixth",
+		"fifth",
+		"eleventh"
+	]
+}
